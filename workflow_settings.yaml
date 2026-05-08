@@ -1,5 +1,8 @@
 dataformCoreVersion: 3.0.56
-defaultProject: bigquery
-defaultLocation: asia-south1
-defaultDataset: dataform
+defaultProject: dataform-learning-project
+defaultDataset: dataform_test
+defaultLocation: asia-south1 # or your specific region
 defaultAssertionDataset: dataform_assertions
+
+
+

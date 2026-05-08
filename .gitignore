@@ -1,3 +1,12 @@
-
+# Dataform Credentials (CRITICAL)
 .df-credentials.json
+dataform-creds.json
+
+# Node/Dependency folders
 node_modules/
+package-lock.json
+.npm/
+
+# Compilation and system files
+dist/
+.DS_Store
